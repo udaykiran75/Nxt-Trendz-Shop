@@ -6,7 +6,7 @@
   font-family: Roboto;
   font-size: 17px;
   color: #616e7c;
-  @media screen and (min-width: 768px){
+  @media screen and (min-width: 768px) {
     font-size: 22px;
   }
 }
@@ -14,7 +14,7 @@
   color: #171f46;
   font-family: Roboto;
   font-size: 17px;
-  @media screen and (min-width: 768px){
+  @media screen and (min-width: 768px) {
     font-size: 22px;
   }
 }
@@ -22,7 +22,7 @@
   color: #616e7c;
   font-size: 14px;
   font-family: Roboto;
-  @media screen and (min-width: 768px){
+  @media screen and (min-width: 768px) {
     font-size: 17px;
   }
 }
@@ -35,7 +35,8 @@
   cursor: pointer;
   border-radius: 5px;
   color: #ffffff;
-  @media screen and (min-width: 768px){
+  @media screen and (min-width: 768px) {
     font-size: 15px;
   }
 }
+
